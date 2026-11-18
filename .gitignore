@@ -1,0 +1,10 @@
+
+database.db
+imagenes/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.log
+mapa.html
