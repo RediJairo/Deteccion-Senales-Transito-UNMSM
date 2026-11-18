@@ -1,0 +1,9 @@
+
+ultralytics
+opencv-python
+folium
+pyttsx3
+customtkinter
+pillow
+pywebview
+pywin32
