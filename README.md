@@ -49,15 +49,21 @@ El modelo resultante se almacena en el archivo `best.pt`, que posteriormente se 
 
 2. Instalar las dependencias:
 
+   ```bash
    pip install -r requirements.txt
+   ```
 
 3. Inicializar la base de datos:
 
+   ```bash
    python database.py
+   ```
 
 4. Ejecutar el sistema:
 
+   ```bash
    python main.py
+   ```
 
 ## 🤖 Modelo entrenado
 
@@ -88,5 +94,7 @@ Las coordenadas utilizadas actualmente son coordenadas de demostración predefin
 - Evaluación del modelo mediante métricas como Precision, Recall y mAP.
 - Optimización del rendimiento de detección.
 - Implementación de reportes estadísticos de las detecciones.
+
+---
 
 **Desarrollado como proyecto académico en la Universidad Nacional Mayor de San Marcos (UNMSM).**
